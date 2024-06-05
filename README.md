@@ -23,6 +23,6 @@ If you'd like to contribute to this repository, please feel free to submit a pul
 
 ## License
 
-This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This repository is licensed under the MIT License.
 
 Happy Coding!
