@@ -17,3 +17,6 @@
 3. [A complete computer science study plan to become a software engineer. - jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
 4. [Notes on coding interview guide by Abhijith & Vijay](https://github.com/TheAmandeepSingh/interview-guide/blob/82e253971a2e7683d2f3795e9626735ba112ea32/resources/assets/alogithm-notes.pdf)
 5. [Notes on resources](https://github.com/TheAmandeepSingh/interview-guide/blob/82e253971a2e7683d2f3795e9626735ba112ea32/resources/assets/resource-notes.jpeg)
+
+## DSA Notes by Prudhvi(all patterns)
+1. [DSA Notes](https://github.com/prudhvir3ddy/DSA-notes/blob/main/README.md)
