@@ -20,3 +20,13 @@
 
 ## DSA Notes by Prudhvi(all patterns)
 1. [DSA Notes](https://github.com/prudhvir3ddy/DSA-notes/blob/main/README.md)
+
+## Job Search Game
+1. [Playbook by Amul](https://docs.google.com/document/d/1QYSOBWbZ7X0bBQf6qqAw_bQsMEqJxl5KBYL15yHpdXM/edit#heading=h.860styz5qvo4)
+2. [_GS Companies List India Data Science 400](https://docs.google.com/spreadsheets/d/1s5Y9Qy_xicngHWCHXJXhhb_iHi5BdhlgnK7IOvQSo9o/edit?gid=1886324042#gid=1886324042)
+3. [_GS Companies List EU Game Dev](https://docs.google.com/spreadsheets/d/1KsT4gjeWMZE27uV_0UD6AQtYyePTOEEwfCGNhCHY3kE/edit?gid=625513882#gid=625513882)
+4. [_GS Companies List India Data Science 400](https://docs.google.com/spreadsheets/d/1s5Y9Qy_xicngHWCHXJXhhb_iHi5BdhlgnK7IOvQSo9o/edit?gid=1886324042#gid=1886324042)
+5. [_GS Companies List SEA Large](https://docs.google.com/spreadsheets/d/1R8iPQDagcrHqdYfrjPr1ZL8PFbIr_p3veq8cP7ip6Po/edit?gid=0#gid=0)
+6. [_GS Companies List India Large](https://docs.google.com/spreadsheets/d/1thyNbD_UNVEtf1vdHlVlf-CwpxsBCq0lBgbVv68GGZU/edit?gid=0#gid=0)
+7. [_GS Companies List SEA Small](https://docs.google.com/spreadsheets/d/1s5Y9Qy_xicngHWCHXJXhhb_iHi5BdhlgnK7IOvQSo9o/edit?gid=1886324042#gid=1886324042)
+8. [_GS Companies List India Small](https://docs.google.com/spreadsheets/d/1rgdQYn8h1Up8uyAm-cAvTMG2DylLf0flUgcdfsgH-eg/edit?gid=0#gid=0)
