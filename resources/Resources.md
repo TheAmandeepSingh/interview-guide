@@ -10,6 +10,8 @@
 
 1. [Interview Ready: White Papers Worth Reading for Software Engineers](https://interviewready.io/blog/white-papers-worth-reading-for-software-engineers?utm_source=pocket_saves)
 2. [Educative: Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+3. [ByteByteGo System Design Interview Course](https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users)
+4. [Arpit Bhayani - System Design Masterclass](https://arpitbhayani.me/masterclass/)	
 
 ## Coding Interview Guide
 1. [Coding Interview Lessons by Prudhvi Reddy](https://docs.google.com/document/d/10q6E2kF0S3FgeY5wpsBpemUUpankDudj8octxfVw7Cc/edit?usp=sharing)
@@ -30,3 +32,13 @@
 6. [_GS Companies List India Large](https://docs.google.com/spreadsheets/d/1thyNbD_UNVEtf1vdHlVlf-CwpxsBCq0lBgbVv68GGZU/edit?gid=0#gid=0)
 7. [_GS Companies List SEA Small](https://docs.google.com/spreadsheets/d/1s5Y9Qy_xicngHWCHXJXhhb_iHi5BdhlgnK7IOvQSo9o/edit?gid=1886324042#gid=1886324042)
 8. [_GS Companies List India Small](https://docs.google.com/spreadsheets/d/1rgdQYn8h1Up8uyAm-cAvTMG2DylLf0flUgcdfsgH-eg/edit?gid=0#gid=0)
+
+## Mock Interview
+1. [Mock Interview Platform](https://www.pramp.com/#/)
+2. [Interviewing.io](https://interviewing.io/)
+3. [interview me discord](https://discord.com/invite/BDmrv4kJYr)
+4. [pramp discord](https://discord.com/invite/vfFcBhTu2C)
+5. [DSA. FAANG](https://discord.com/invite/HuD3MxFfBg)
+6. [LLD discord](https://discord.com/invite/YQwpEjaebT)
+7. [Recent interview experiences](https://discord.com/invite/arQ65nSGX9)
+8. [cs careers dev](https://discord.com/invite/prvagcQkGU)
