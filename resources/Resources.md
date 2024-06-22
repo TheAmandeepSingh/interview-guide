@@ -42,3 +42,6 @@
 6. [LLD discord](https://discord.com/invite/YQwpEjaebT)
 7. [Recent interview experiences](https://discord.com/invite/arQ65nSGX9)
 8. [cs careers dev](https://discord.com/invite/prvagcQkGU)
+9. [Launch Pass: PM Interview](https://www.launchpass.com/pminterview)
+10. [SDE Skills](https://sdeskills.com/resources)
+11. [Regular DSA, System Design discussions](https://sdeskills.com/programs)
